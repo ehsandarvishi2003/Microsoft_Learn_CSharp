@@ -45,47 +45,51 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Polymorphism", "Polymorphism", "{EA42B54B-9898-45A0-A399-EBCBBA28B452}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{B12B0543-755C-415F-B9BF-7732EF60B83C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{B12B0543-755C-415F-B9BF-7732EF60B83C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Functional techniques", "Functional techniques", "{010E7E26-E1CB-49D8-8F19-0CB5F431B57B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pattern matching", "Pattern matching", "{EA19A679-8200-41FB-8A6C-D2412896B7E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern matching", "Pattern matching\Pattern matching.csproj", "{8C0DADF1-93D0-46BF-AC59-A942B0E1A96C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pattern matching", "Pattern matching\Pattern matching.csproj", "{8C0DADF1-93D0-46BF-AC59-A942B0E1A96C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Discards", "Discards", "{89739693-6B47-4133-A81E-68F5B82F61C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discard", "Discard\Discard.csproj", "{04E30093-40CE-455A-A1FD-516B06204532}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Discard", "Discard\Discard.csproj", "{04E30093-40CE-455A-A1FD-516B06204532}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exceptions and error", "Exceptions and error", "{D32F70E4-3151-4589-A211-186E7E540AD7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Use exceptions", "Use exceptions", "{F4B82CF6-55CB-4ADB-ABDB-87A09289678D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Use exceptions", "Use exceptions\Use exceptions.csproj", "{243BE774-EBF8-419E-BFF2-0D99C1DCFD30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Use exceptions", "Use exceptions\Use exceptions.csproj", "{243BE774-EBF8-419E-BFF2-0D99C1DCFD30}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exception Handling", "Exception Handling", "{5C30FE0C-2FE5-4BEC-878E-F04C51BEC4B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception Handling", "Exception Handling\Exception Handling.csproj", "{A89F9D38-D923-4F71-8AD1-88574AAF4B45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exception Handling", "Exception Handling\Exception Handling.csproj", "{A89F9D38-D923-4F71-8AD1-88574AAF4B45}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Create and throw exceptions", "Create and throw exceptions", "{07379386-7DE3-4477-8FE0-EA904451CAF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create and throw exceptions", "Create and throw exceptions\Create and throw exceptions.csproj", "{0FCA1CF5-CCAF-4677-B7A1-5EA64EC569A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Create and throw exceptions", "Create and throw exceptions\Create and throw exceptions.csproj", "{0FCA1CF5-CCAF-4677-B7A1-5EA64EC569A5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Coding style", "Coding style", "{DEE7048C-1399-4DA2-81B8-4BD91FEF1C72}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C# identifier naming rules and conventions", "C# identifier naming rules and conventions", "{4D2A1D8B-E069-4F2E-9521-DE30CD787E48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C# identifier naming rules and conventions", "C# identifier naming rules and conventions\C# identifier naming rules and conventions.csproj", "{E8DCFCF4-2A53-489E-98D1-1034D6478FF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C# identifier naming rules and conventions", "C# identifier naming rules and conventions\C# identifier naming rules and conventions.csproj", "{E8DCFCF4-2A53-489E-98D1-1034D6478FF4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Coding conventions", "Coding conventions", "{D092C242-D202-4875-B55E-F06CC29F3A8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coding conventions", "Coding conventions\Coding conventions.csproj", "{6B3D9BD1-BA48-4CE6-B076-9574B4F7C6CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Coding conventions", "Coding conventions\Coding conventions.csproj", "{6B3D9BD1-BA48-4CE6-B076-9574B4F7C6CA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tutorials", "Tutorials", "{44BD2B6D-2EF5-47E5-87EB-F0016F502569}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Introduction to classes", "Introduction to classes", "{FA955973-6E5B-46AD-B537-CF1E831A7C28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction to classes", "Introduction to classes\Introduction to classes.csproj", "{9E7A4BD8-2308-4867-93CD-D45F332217E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Introduction to classes", "Introduction to classes\Introduction to classes.csproj", "{9E7A4BD8-2308-4867-93CD-D45F332217E7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Inheritance in c# and .net", "Inheritance in c# and .net", "{C82402B4-0E0E-45D1-B5FE-45B5962EE021}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance in c# and .net", "Inheritance in c# and .net\Inheritance in c# and .net.csproj", "{F4580F60-F2A4-4AA3-96DC-30F820920BA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -157,6 +161,10 @@ Global
 		{9E7A4BD8-2308-4867-93CD-D45F332217E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E7A4BD8-2308-4867-93CD-D45F332217E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E7A4BD8-2308-4867-93CD-D45F332217E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4580F60-F2A4-4AA3-96DC-30F820920BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4580F60-F2A4-4AA3-96DC-30F820920BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4580F60-F2A4-4AA3-96DC-30F820920BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4580F60-F2A4-4AA3-96DC-30F820920BA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -195,6 +203,8 @@ Global
 		{6B3D9BD1-BA48-4CE6-B076-9574B4F7C6CA} = {D092C242-D202-4875-B55E-F06CC29F3A8A}
 		{FA955973-6E5B-46AD-B537-CF1E831A7C28} = {44BD2B6D-2EF5-47E5-87EB-F0016F502569}
 		{9E7A4BD8-2308-4867-93CD-D45F332217E7} = {FA955973-6E5B-46AD-B537-CF1E831A7C28}
+		{C82402B4-0E0E-45D1-B5FE-45B5962EE021} = {44BD2B6D-2EF5-47E5-87EB-F0016F502569}
+		{F4580F60-F2A4-4AA3-96DC-30F820920BA7} = {C82402B4-0E0E-45D1-B5FE-45B5962EE021}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D2679855-7BE0-45C1-BE14-19DD2C23C79C}
